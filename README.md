@@ -1,2 +1,2 @@
-# ej_java
-ejercicios en java
+# ej_javascript
+ejercicios en javascript
